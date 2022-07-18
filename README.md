@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Yogi</h1>
 <h3 align="center">A Cybersecurity enthusiast</h3>
-<a href="https://tryhackme.com/p/generalpy" rel="_blank"><img src="https://raw.githubusercontent.com/generalpy101/generalpy101/master/assets/thm_propic.png" /></a>
+<a href="https://tryhackme.com/p/generalpy" target="_blank"><img src="https://raw.githubusercontent.com/generalpy101/generalpy101/master/assets/thm_propic.png" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=generalpy101&label=Profile%20views&color=0e75b6&style=flat" alt="generalpy101" /> </p>
 
