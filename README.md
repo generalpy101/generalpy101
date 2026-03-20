@@ -9,6 +9,20 @@ I enjoy building reliable services with Python, Node.js, and Rust, and I’m con
 
 ---
 
+## 🚀 Featured Projects
+
+### [Github-Analyzer](https://github.com/generalpy101/Github-Analyzer)
+Advanced desktop application built with Tauri + Rust frontend and Flask backend. Features AI-powered GitHub profile analysis, Docker deployment, and CI/CD pipeline.
+
+### [Message Queue in Python](https://github.com/generalpy101/message-queue-python)
+High-performance message queue implementation demonstrating distributed systems concepts with proper testing and documentation.
+
+### [Key Server API](https://github.com/generalpy101/key-server)  
+RESTful key management service with rate limiting, authentication, and comprehensive API documentation.
+
+
+---
+
 ### 🛠️ Tech I use
 
 - Languages: Python, JavaScript/TypeScript, Rust, Bash
